@@ -1,0 +1,52 @@
+body{
+    background: linear-gradient( to top, #ff9696 , #d7dafa 60% );
+    height: 100vh;
+    padding: 10px;
+}
+h2{
+     letter-spacing: 1px;
+     font-weight: 900;
+     text-transform: capitalize;
+}.images{
+    padding: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    gap: 10px;
+}
+
+h3{
+    height: 40px;
+    font-size: 40px;
+}
+img{width: 60%;}
+.sony{width: 100%;}
+.images div{
+    width: 15%;
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+    align-content: center;
+    letter-spacing: 2px;
+
+}
+h1{font-weight: bolder;}
+.logo{
+    font-weight: 900;
+    font-size: 30px;
+
+}
+.wd{
+    font-weight: 900;
+    font-size: 30px;
+    text-align: center;
+}.wd h3{
+    background: #000;
+    color: #fff;
+    height: 60px;
+    width: 120px;
+}.logo,.wd{
+    text-transform: capitalize;
+}span{
+    text-shadow: -7px 0px #ccf8f8a2;
+}
